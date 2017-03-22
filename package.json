@@ -1,0 +1,23 @@
+{
+  "name": "@fdy/pancake-sheet",
+  "version": "1.0.0",
+  "description": "A node CLI tool to flatten multi-sheet/tab spreadsheet files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faradayio/pancake-sheet.git"
+  },
+  "author": "bill@faraday.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faradayio/pancake-sheet/issues"
+  },
+  "homepage": "https://github.com/faradayio/pancake-sheet#readme",
+  "dependencies": {
+    "fast-csv": "^2.4.0",
+    "xlsx": "^0.9.4"
+  }
+}
