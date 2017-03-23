@@ -1,24 +1,24 @@
 {
-  "name": "@fdy/pancake-sheet",
-  "version": "1.0.0",
-  "description": "A node CLI tool to flatten multi-sheet/tab spreadsheet files",
+  "name": "@fdy/plancha",
+  "version": "1.1.0",
+  "description": "A node CLI tool to flatten multi-sheet/tab spreadsheet files. Named for the inimitable tortilla press.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faradayio/pancake-sheet.git"
+    "url": "git+https://github.com/faradayio/plancha.git"
   },
   "author": "bill@faraday.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faradayio/pancake-sheet/issues"
+    "url": "https://github.com/faradayio/plancha/issues"
   },
   "bin": {
-    "pancake": "index.js"
+    "plancha": "index.js"
   },
-  "homepage": "https://github.com/faradayio/pancake-sheet#readme",
+  "homepage": "https://github.com/faradayio/plancha#readme",
   "dependencies": {
     "command-line-args": "^4.0.2",
     "fast-csv": "^2.4.0",
