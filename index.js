@@ -1,5 +1,4 @@
-// USAGE: node index.js <infilename.csv>
-
+#!/usr/bin/env node
 "use strict"
 let fs = require('fs');
 let csv = require('fast-csv');
