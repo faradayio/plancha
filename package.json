@@ -15,8 +15,12 @@
   "bugs": {
     "url": "https://github.com/faradayio/pancake-sheet/issues"
   },
+  "bin": {
+    "pancake": "index.js"
+  },
   "homepage": "https://github.com/faradayio/pancake-sheet#readme",
   "dependencies": {
+    "command-line-args": "^4.0.2",
     "fast-csv": "^2.4.0",
     "xlsx": "^0.9.4"
   }

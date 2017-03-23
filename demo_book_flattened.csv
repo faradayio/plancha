@@ -1,0 +1,18 @@
+id,first_name,last_name,gender,city,frequency,cost,worksheet_name
+1,David,Bennett,Male,,,,Inbounds
+2,Samuel,Palmer,Male,,,,Inbounds
+3,Jack,Porter,Male,,,,Inbounds
+4,Ruth,Smith,Female,,,,Inbounds
+5,Michael,Bishop,Male,,,,Inbounds
+6,Steven,Chapman,Male,Jiuxian,,,Leads
+7,Ryan,Bennett,Male,Perreng,,,Leads
+8,Daniel,Griffin,Male,Zuocun,,,Leads
+9,Ryan,Smith,Male,Lyon,,,Leads
+10,Gary,Tucker,Male,Taveiro,,,Leads
+11,Craig,Cox,Male,Santa Cruz Cabrália,,,Leads
+12,Wanda,Lopez,Female,Pskov,,,Leads
+13,Juan,Rogers,Male,Mloko,,,Leads
+14,Judith,Weaver,,Muroto-misakicho,Often,"$4,289.79 ",Customers
+15,Walter,Lee,,Enhtal,Once,"$4,822.94 ",Customers
+16,Gloria,Fox,,Burrel,Never,"$2,958.28 ",Customers
+17,Pamela,Lane,,Niamey,Yearly,"$3,585.49 ",Customers
