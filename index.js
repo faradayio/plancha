@@ -41,11 +41,13 @@ for (let i = 0; i < workSheets.length; i++) {
   // add the json to the master array
   sheets.push(sheetData)
   // reconcile the header of the current sheet with the master sheet
-  let headers = Object.keys(sheetData[0])
-  headers.forEach(function (header) {
-    if (outHeader.indexOf(header) === -1) {
-      outHeader.push(header)
-    }
+  sheetData.forEach(function (row) {
+    let headers = Object.keys(row)
+    headers.forEach(function (header) {
+      if (outHeader.indexOf(header) === -1) {
+        outHeader.push(header)
+      }
+    })
   })
 }
 
